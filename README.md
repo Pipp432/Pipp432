@@ -1,5 +1,4 @@
 # Hello there 👋
-![mementomori](https://thematter.co/wp-content/uploads/2017/06/StillLifeWithASkull.jpg)
 In junior year at Chulalongkorn University Information and Communication (ICE).
 \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pipp432)](https://github.com/anuraghazra/github-readme-stats)
