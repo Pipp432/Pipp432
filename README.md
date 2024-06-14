@@ -1,7 +1,7 @@
 # Hello there 👋
-In junior year at Chulalongkorn University Information and Communication (ICE).
+In Fresh Graduate at Chulalongkorn University Information and Communication (ICE).
 \
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pipp432)](https://github.com/anuraghazra/github-readme-stats)
+[![Napatra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pipp432)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Pipp432/Pipp432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
